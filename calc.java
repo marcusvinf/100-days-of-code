@@ -38,7 +38,7 @@ public class Main {
              itr = add.nextInt();
              resultado/=itr;
          } break;
-         default: System.out.println("Voce nao escolheu nenhuma operacao"); break;
+         default: System.out.println("eVoce nao escolheu nenhuma operacao"); break;
 
      }
      System.out.println("O resultado eh : " + resultado);
