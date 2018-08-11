@@ -4,8 +4,8 @@
 
 # 100 Days Of Code - Log
 
-### Day 1: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: August 11, 2018 (Example 1)
+
 
 **Today's Progress**: Started Java, and learned some basics
 
@@ -13,9 +13,9 @@
 
 
 
-### Day 2: June 27, Monday
+### Day 2: June 12, Saturday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Learn more syntax, build some string projects
 
 **Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
